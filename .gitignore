@@ -1,3 +1,10 @@
+# Maven build artifacts
+target/
+
+# IntelliJ Artifacts
+.idea
+*.iml
+
 # Compiled class file
 *.class
 
