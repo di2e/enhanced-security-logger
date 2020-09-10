@@ -8,7 +8,7 @@
 	</parent>
 
 	<artifactId>enhanced-security-logger</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Enhanced Security Logger Plugin</name>
 	<description>Adds enhanced security logging to the jenkins.</description>
 	<packaging>hpi</packaging>
